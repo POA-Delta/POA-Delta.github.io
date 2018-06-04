@@ -12,7 +12,7 @@
   ],
   "ethTestnet": true,
   "ethChainId": 1,
-  "ethProvider": "http://sokol.poa.net",
+  "ethProvider": "http://sokol.poa.network",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
