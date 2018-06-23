@@ -1,7 +1,7 @@
 {
-  "contractEtherDelta": "smart_contract/etherdelta.sol",
-  "contractToken": "smart_contract/token.sol",
-  "contractReserveToken": "smart_contract/reservetoken.sol",
+  "contractEtherDelta": "smart_contract/etherdelta.sol.json",
+  "contractToken": "smart_contract/token.sol.json",
+  "contractReserveToken": "smart_contract/reservetoken.sol.json",
   "contractEtherDeltaAddrs": [
     { "addr": "0xbe27129e42506c151b1c26a42a9dfdc123a75a8d", "info": "Deployed 06/04/2018 -- SOKOL.POA.NETWORK" },
     { "addr": "0x8d12a197cb00d4747a1fe03395095ce2a5cc6819", "info": "Deployed 02/09/2017 -- THE CURRENT SMART CONTRACT" },
