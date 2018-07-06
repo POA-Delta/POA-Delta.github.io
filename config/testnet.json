@@ -12,7 +12,7 @@
   ],
   "ethTestnet": "sokol",
   "ethChainId": 3,
-  "ethProvider": "https://sokol.infura.io/oKy3doMu6apGNsmvua7V",
+  "ethProvider": "https://sokol.poa.network/oKy3doMu6apGNsmvua7V",
   "ethGasPrice": 20000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
