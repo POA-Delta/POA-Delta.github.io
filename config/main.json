@@ -32,6 +32,7 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 }
   ],
   "tokens": [
+    { "addr": "0xa53e7344e78c900ef52ee6b9ffb7000590f6f475", "name": "0xPOA", "fullName": "0xPOA Network Token", "decimals": 8 },
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "fullName": "Stox", "decimals": 18 },
     { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "fullName": "Knoxstertoken", "decimals": 18 },
     { "addr": "0x00a0cbe98e4d110b0fa82646152d77babf2951d0", "name": "EETHER", "fullName": "EETHER", "decimals": 18 },
@@ -1002,5 +1003,5 @@
     { "addr": "0xffc63b9146967a1ba33066fb057ee3722221acf0", "name": "A", "fullName": "Alpha", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "fullName": "Hedge", "decimals": 18 }
   ],
-  "defaultPair": { "token": "DAI", "base": "ETH" }
+  "defaultPair": { "token": "0xPOA", "base": "ETH" }
 }
