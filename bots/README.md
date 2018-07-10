@@ -1,1 +1,1 @@
-See [the bots repository](https://github.com/etherdelta/bots).
+See [the bots repository](https://github.com/poa-delta/bots).
