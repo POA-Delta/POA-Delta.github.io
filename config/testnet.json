@@ -10,9 +10,10 @@
     { "addr": "0x91739eeb4f3600442ea6a42c43f7fa8cd8f78a3d", "info": "Deployed 06/30/2016" },
     { "addr": "0x0000000000000000000000000000000000000000", "info": "Zero contract" }
   ],
+  
   "ethTestnet": "sokol",
   "ethChainId": 1,
-  "ethProvider": "https://sokol.infura.io/oKy3doMu6apGNsmvua7V",
+  "ethProvider": "http://localhost:8545",
   "ethGasPrice": 20000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
