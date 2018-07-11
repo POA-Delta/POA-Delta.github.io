@@ -23,7 +23,7 @@
   "gasTrade": 250000,
   "gasOrder": 250000,
   "minOrderSize": 0.001,
-  "socketServer": ["https://sokol.infura.io/UfKucxPhJUoTSIgNLz8z"],
+  "socketServer": ["https://sokol.infura.io/UfKucxPhJUoTSIgNLz8z","https://api.forkdelta.com"],
   "userCookie": "POADelta",
   "eventsCacheCookie": "POADelta_eventsCache",
   "ordersCacheCookie": "POADelta_ordersCache",
