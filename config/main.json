@@ -13,9 +13,9 @@
   
   "ethTestnet": true,
    "ethChainId": 1,
-  "ethProvider": "https://sokol.infura.io/oKy3doMu6apGNsmvua7V ",
+  "ethProvider": "https://sokol.infura.io/oKy3doMu6apGNsmvua7V",
   "ethGasPrice": 4000000000,
-  "ethAddr": "0x6758B7d441a9739b98552B373703d8d3d14f9e62 ",
+  "ethAddr": "0x6758B7d441a9739b98552B373703d8d3d14f9e62",
   "ethAddrPrivateKey": "",
   "gasApprove": 250000,
   "gasDeposit": 250000,
