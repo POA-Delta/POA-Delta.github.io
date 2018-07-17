@@ -13,7 +13,7 @@
   
   "ethTestnet": true,
    "ethChainId": 1,
-  "ethProvider": "https://sokol.infura.io/oKy3doMu6apGNsmvua7V",
+  "ethProvider": "http://localhost:8545",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
